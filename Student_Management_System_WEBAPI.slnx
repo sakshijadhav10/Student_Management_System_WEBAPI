@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Student_Management_System_API/Student_Management_System_API.csproj" />
+  <Project Path="Student_Management_System_BLLLayer/Student_Management_System_BLLLayer.csproj" />
+  <Project Path="Student_Management_System_DALLayer/Student_Management_System_DALLayer.csproj" />
+</Solution>
